@@ -13,7 +13,9 @@
 
 /* ------------------TABLET------------------ */
 
-@media screen and (max-width: 810px) {
+
+
+@media screen and (max-width: 1200px) {
   .h1 {
     font-size: 55px;
     line-height: 60px;
