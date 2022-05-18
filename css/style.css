@@ -224,7 +224,7 @@
   /* studies block  */
   .studies__content {
     flex-direction: column;
-    width: 650px;
+    max-width: 650px;
   }
 
   .studies__card {
@@ -500,7 +500,8 @@ padding-top: 40px;
 
   footer {
       flex-direction: column;
-padding: 20px 10px;  
+padding-top: 20px;
+padding-left: 10px;
 }
 
   .footer__left {
@@ -520,4 +521,6 @@ padding: 20px 10px;
   .footer__right {
       padding: 0;
   }
+
+  
 }
