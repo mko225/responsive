@@ -1,0 +1,30 @@
+.brand__wrapper {
+  background-color: #ff9c7d;
+}
+
+.brand__content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  max-width: 1290px;
+  margin: 0 auto;
+  padding-top: 100px;
+}
+
+.brand__heading {
+  max-width: 700px;
+  margin: 0;
+  margin-bottom: 70px;
+  text-align: center;
+}
+
+.brand__menu {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 103px;
+  padding: 0;
+  margin: 0;
+  margin-bottom: 96px;
+  list-style: none;
+}

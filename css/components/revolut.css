@@ -1,0 +1,32 @@
+.revolut__wrapper {
+  background-color: #c9e8f2;
+}
+
+.revolut__content {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  max-width: 1290px;
+  margin: 0 auto;
+  padding-top: 55px;
+  padding-bottom: 100px;
+}
+
+.revolut__text {
+  display: flex;
+  flex-direction: column;
+  max-width: 920px;
+  font-size: 30px;
+  line-height: 40px;
+}
+
+.revolut__text > span {
+  margin-bottom: 7px;
+  font-size: 15px;
+  line-height: 25px;
+  font-style: italic;
+}
+
+.revolut__brand {
+  max-width: 115px;
+}

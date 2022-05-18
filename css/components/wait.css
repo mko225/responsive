@@ -1,0 +1,29 @@
+.wait__wrapper {
+  background-color: #ff9c7d;
+}
+
+.wait__content {
+  max-width: 1023px;
+  margin: 0 auto;
+  padding-top: 165px;
+  text-align: center;
+}
+
+.wait__heading {
+  max-width: 780px;
+  margin: 0 auto;
+  margin-bottom: 30px;
+  line-height: 75px;
+}
+
+.wait__text {
+  max-width: 540px;
+  margin: 0 auto;
+  margin-bottom: 55px;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.margin__wait {
+  margin-bottom: 160px;
+}

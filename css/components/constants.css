@@ -1,0 +1,45 @@
+.h1 {
+    margin: 0;
+    font-weight: 600;
+    font-size: 65px;
+    line-height: 70px;
+  }
+
+  .h2 {
+    margin: 0;
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 60px;
+  }
+
+  .h3 {
+    margin: 0;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 50px;
+  }
+
+ .h4 {
+    margin: 0;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 35px;
+ }
+
+ body {
+    font-family: Graphik, Arial, Helvetica, sans-serif;
+    color: #000000;
+    font-weight: 400px;
+  }
+
+ a:link {
+    text-decoration: none;
+  }
+  
+  a:hover {
+    cursor: pointer;
+  }
+  
+  a {
+    color: #000000;
+  }
